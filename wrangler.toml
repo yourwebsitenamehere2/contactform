@@ -1,0 +1,10 @@
+# wrangler.toml
+name = "contactform" # Reference from .env
+main = "worker.js"
+compatibility_date = "2024-02-19"
+
+
+[vars]
+TELEGRAM_BOT_TOKEN="7574231792:AAFAJPo0axNJRs2LU3grtZROxWJthCW1xHs"
+TELEGRAM_CHAT_ID="6736125504"
+YOUR_DOMAIN="https://design.webtuyo.com"
